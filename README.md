@@ -64,8 +64,8 @@ ATENÇÃO: É de extrema importância um arquivo README para instrução de como
 
 ## Links para documentação de ferramentas utilizadas.
 
-Composer: https://getcomposer.org/
-Doctrine: https://www.doctrine-project.org/projects/doctrine-orm/en/2.10/index.html
+- Composer: https://getcomposer.org/
+- Doctrine: https://www.doctrine-project.org/projects/doctrine-orm/en/2.10/index.html
 
 ## Envio do teste
 
