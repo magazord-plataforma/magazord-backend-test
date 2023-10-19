@@ -19,7 +19,7 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 É necessário que o sistema utilize o padrão MVC e que a manipulação com o banco de dados opere em conjunto com uma ORM chamada Doctrine. 
 
 > [!IMPORTANT]
-> Não utilizar framework's para desenvolver a aplicação **back-end**.
+> **Não utilizar framework's para desenvolver a aplicação back-end**.
 
 > [!IMPORTANT]
 > Podem ser utilizados frameworks JS para facilitar o desenvolvimento visual.
