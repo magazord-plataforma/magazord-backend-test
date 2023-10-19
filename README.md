@@ -18,10 +18,17 @@ O visual da aplicação é secundário, não será critério de avaliação.
 Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e Banco de Dados. 
 É necessário que o sistema utilize o padrão MVC e que a manipulação com o banco de dados opere em conjunto com uma ORM chamada Doctrine. 
 
-Não utilizar framework's para desenvolver a aplicação back-end. 
-Podem ser utilizados frameworks JS para facilitar o desenvolvimento visual.
+> [!IMPORTANT]
+> Não utilizar framework's para desenvolver a aplicação **back-end**.
 
-ATENÇÃO: É de extrema importância um arquivo README para instrução de como executar o projeto.
+> [!IMPORTANT]
+> Podem ser utilizados frameworks JS para facilitar o desenvolvimento visual.
+
+> [!NOTE]
+> Caso tenha dominio de ferramentas de Container (Docker) incluir o projeto para facilitar a validação do mesmo.
+
+> [!IMPORTANT]
+> É de extrema importância um arquivo README para instrução de como executar o projeto.
 
 ## Requisitos funcionais:
 
